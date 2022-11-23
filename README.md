@@ -1,1 +1,1 @@
-AOC 2021 solutions on python.
+AOC 2022 solutions on python.
